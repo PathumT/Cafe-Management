@@ -1,10 +1,4 @@
 
-IT20211578-H M P D Premarathne -Table reservation system
-IT20883416-Siritunga T.L.C.J   -Menu Management System
-IT20098582-Nissanka L.N.A.T.A. -Cart and Order management.
-IT20229566-Thennakoon T.M.P.B  -User Authentication & Account Management
-
-
 catch 35
 
 
